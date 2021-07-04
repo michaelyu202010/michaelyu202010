@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelyu202010
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming. 
 - 🌱 I’m currently learning C and Linux
 - 💞️ I’m looking to collaborate on C projects
 - 📫 Please leave a message to contact me. 
